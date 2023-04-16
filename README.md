@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/laiba-arshad10/">Laiba</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-#### I am a passionate software engineer with a knack for crafting elegant solutions through clean and efficient code. Bringing creativity and attention to detail to every project, with a focus on delivering high-quality results that exceed expectations.
+#### I am a passionate software engineer who crafts clean, efficient solutions with attention to detail, and always strives to exceed expectations.
 
 ## 🧑🏽‍💻 What am I doing?
 
