@@ -5,8 +5,8 @@
 ## 🧑🏽‍💻 What am I doing?
 
 <div style="line-height: 1.15">
-    <b>👨‍🏫 National University of Computer and Emerging Sciences</b>
-    <p>Teaching Assistant, BS (Web Programming)</p>
+    <b>👨‍🏫 Associate Software Engineer </b>
+    <p>Business Analytics: Data management, data visualization, predictive modeling, gaining insights from data.</p>
 </div>
 
 <div style="line-height: 1.15">
