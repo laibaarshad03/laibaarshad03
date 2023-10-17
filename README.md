@@ -6,7 +6,7 @@
 
 <div style="line-height: 1.15">
     <b>👨‍🏫 Associate Software Engineer </b>
-    <p>Business Analytics: Data management, data visualization, predictive modeling, gaining insights from data.</p>
+    <p>Business Analytics: Data management, Data accuracy, Report creation and ETL pipelines.</p>
 </div>
 
 <div style="line-height: 1.15">
